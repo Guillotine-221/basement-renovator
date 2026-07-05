@@ -909,8 +909,8 @@
         <bitfield Key="Subtype">
             <dropdown Length="2">
                 <choice>Normal</choice>
-                <choice>Green</choice>
-                <choice>Orange</choice>
+                <choice>Green 👑</choice>
+                <choice>Orange 👑</choice>
             </dropdown>
         </bitfield>
     </entity>
@@ -918,7 +918,7 @@
         <bitfield Key="Subtype">
             <dropdown Length="1">
                 <choice>Normal</choice>
-                <choice>Blue</choice>
+                <choice>Blue 👑</choice>
             </dropdown>
         </bitfield>
     </entity>
@@ -929,8 +929,8 @@
         <bitfield Key="Subtype">
             <dropdown Length="2">
                 <choice>Normal</choice>
-                <choice>Red</choice>
-                <choice>Grey</choice>
+                <choice>Red 👑</choice>
+                <choice>Grey 👑</choice>
             </dropdown>
         </bitfield>
     </entity>
@@ -940,8 +940,8 @@
         <bitfield Key="Subtype">
             <dropdown Length="2">
                 <choice>Normal</choice>
-                <choice>Green</choice>
-				<choice>Blue</choice>
+				<choice>Green 👑</choice>
+				<choice>Blue 👑</choice>
             </dropdown>
         </bitfield>
       </entity>
@@ -954,8 +954,8 @@
         <bitfield Key="Subtype">
             <dropdown Length="2">
                 <choice>Normal</choice>
-                <choice>Green</choice>
-                <choice>Blue</choice>
+                <choice>Green 👑</choice>
+                <choice>Blue 👑</choice>
             </dropdown>
         </bitfield>
     </entity>
@@ -964,8 +964,8 @@
         <bitfield Key="Subtype">
             <dropdown Length="2">
                 <choice>Normal</choice>
-                <choice>Red</choice>
-				<choice>Black</choice>
+				<choice>Red 👑</choice>
+				<choice>Black 👑</choice>
             </dropdown>
         </bitfield>
       </entity>
@@ -975,8 +975,8 @@
         <bitfield Key="Subtype">
             <dropdown Length="2">
                 <choice>Normal</choice>
-                <choice>Yellow</choice>
-				<choice>Black</choice>
+				<choice>Yellow 👑</choice>
+				<choice>Black 👑</choice>
             </dropdown>
         </bitfield>
       </entity>
@@ -989,8 +989,8 @@
         <bitfield Key="Subtype">
             <dropdown Length="2">
                 <choice>Normal</choice>
-                <choice>Black</choice>
-				<choice>Pink</choice>
+				<choice>Black 👑</choice>
+				<choice>Pink 👑</choice>
             </dropdown>
         </bitfield>
     </entity>
@@ -999,8 +999,8 @@
         <bitfield Key="Subtype">
             <dropdown Length="2">
                 <choice>Normal</choice>
-                <choice>Black</choice>
-				<choice>Pink</choice>
+				<choice>Black 👑</choice>
+				<choice>Pink 👑</choice>
             </dropdown>
         </bitfield>
     </entity>
@@ -1011,8 +1011,8 @@
         <bitfield Key="Subtype">
             <dropdown Length="2">
                 <choice>Normal</choice>
-                <choice>Yellow</choice>
-                <choice>Cyan</choice>
+                <choice>Yellow 👑</choice>
+                <choice>Cyan 👑</choice>
             </dropdown>
         </bitfield>
     </entity>
@@ -1020,8 +1020,8 @@
         <bitfield Key="Subtype">
             <dropdown Length="2">
                 <choice>Normal</choice>
-                <choice>Blue</choice>
-				<choice>Yellow</choice>
+                <choice>Blue 👑</choice>
+				<choice>Yellow 👑</choice>
             </dropdown>
         </bitfield>
     </entity>
@@ -1029,7 +1029,7 @@
         <bitfield Key="Subtype">
             <dropdown Length="1">
                 <choice>Normal</choice>
-                <choice>Grey</choice>
+                <choice>Grey 👑</choice>
             </dropdown>
         </bitfield>
     </entity>
@@ -1041,8 +1041,8 @@
         <bitfield Key="Subtype">
             <dropdown Length="2">
                 <choice>Normal</choice>
-                <choice>Blue</choice>
-                <choice>Orange</choice>
+                <choice>Blue 👑</choice>
+                <choice>Orange 👑</choice>
             </dropdown>
         </bitfield>
       </entity>
@@ -1052,7 +1052,7 @@
         <bitfield Key="Subtype">
             <dropdown Length="1">
                 <choice>Normal</choice>
-                <choice>Green</choice>
+                <choice>Green 👑</choice>
             </dropdown>
         </bitfield>
     </entity>
@@ -1061,7 +1061,7 @@
         <bitfield Key="Subtype">
             <dropdown Length="1">
                 <choice>Normal</choice>
-                <choice>Grey</choice>
+                <choice>Grey 👑</choice>
             </dropdown>
         </bitfield>
       </entity>
@@ -1069,7 +1069,7 @@
         <bitfield Key="Subtype">
             <dropdown Length="1">
                 <choice>Normal</choice>
-                <choice>Grey</choice>
+                <choice>Grey 👑</choice>
             </dropdown>
         </bitfield>
       </entity>
@@ -1077,7 +1077,7 @@
         <bitfield Key="Subtype">
             <dropdown Length="1">
                 <choice>Normal</choice>
-                <choice>Grey</choice>
+                <choice>Grey 👑</choice>
             </dropdown>
         </bitfield>
       </entity>
@@ -1086,8 +1086,8 @@
         <bitfield Key="Subtype">
             <dropdown Length="2">
                 <choice>Normal</choice>
-                <choice>Red</choice>
-				<choice>Black</choice>
+				<choice>Red 👑</choice>
+				<choice>Black 👑</choice>
             </dropdown>
         </bitfield>
     </entity>
@@ -1095,8 +1095,8 @@
         <bitfield Key="Subtype">
             <dropdown Length="2">
                 <choice>Normal</choice>
-                <choice>Red</choice>
-				<choice>Brown</choice>
+				<choice>Red 👑</choice>
+				<choice>Brown 👑</choice>
             </dropdown>
         </bitfield>
     </entity>
@@ -1107,7 +1107,7 @@
         <bitfield Key="Subtype">
             <dropdown Length="1">
                 <choice>Normal</choice>
-                <choice>Pink</choice>
+                <choice>Pink 👑</choice>
             </dropdown>
         </bitfield>
     </entity>
@@ -1115,18 +1115,18 @@
         <bitfield Key="Subtype">
             <dropdown Length="2">
                 <choice>Normal</choice>
-                <choice>Green</choice>
-                <choice>Black</choice>
-				<choice>Yellow</choice>
-            </dropdown>
+				<choice>Green 👑</choice>
+				<choice>Black 👑</choice>
+				<choice>Yellow 👑</choice>
+			</dropdown>
         </bitfield>
     </entity>
     <entity BaseHP="150" ID="67" Image="Entities/67.1.0 - The Husk.png" Name="The Husk" Subtype="0" Variant="1">
         <bitfield Key="Subtype">
             <dropdown Length="2">
                 <choice>Normal</choice>
-                <choice>Black</choice>
-                <choice>Red</choice>
+                <choice>Black 👑</choice>
+                <choice>Red 👑</choice>
             </dropdown>
         </bitfield>
     </entity>
@@ -1135,8 +1135,8 @@
         <bitfield Key="Subtype">
             <dropdown Length="2">
                 <choice>Normal</choice>
-                <choice>Red</choice>
-				<choice>Pink</choice>
+				<choice>Red 👑</choice>
+				<choice>Pink 👑</choice>
             </dropdown>
         </bitfield>
     </entity>
@@ -1150,7 +1150,7 @@
         <bitfield Key="Subtype">
             <dropdown Length="1">
                 <choice>Normal</choice>
-                <choice>Grey</choice>
+                <choice>Grey 👑</choice>
             </dropdown>
         </bitfield>
     </entity>
@@ -1158,7 +1158,7 @@
         <bitfield Key="Subtype">
             <dropdown Length="1">
                 <choice>Normal</choice>
-                <choice>Grey</choice>
+                <choice>Grey 👑</choice>
             </dropdown>
         </bitfield>
     </entity>
@@ -1170,7 +1170,7 @@
         <bitfield Key="Subtype">
             <dropdown Length="1">
                 <choice>Normal</choice>
-                <choice>Red</choice>
+                <choice>Red 👑</choice>
             </dropdown>
         </bitfield>
       </entity>
@@ -1180,8 +1180,8 @@
         <bitfield Key="Subtype">
             <dropdown Length="2">
                 <choice>Normal</choice>
-                <choice>Green</choice>
-				<choice>Pink</choice>
+				<choice>Green 👑</choice>
+				<choice>Pink 👑</choice>
             </dropdown>
         </bitfield>
     </entity>
@@ -1189,8 +1189,8 @@
         <bitfield Key="Subtype">
             <dropdown Length="2">
                 <choice>Normal</choice>
-                <choice>Red</choice>
-				<choice>Black</choice>
+				<choice>Red 👑</choice>
+				<choice>Black 👑</choice>
             </dropdown>
         </bitfield>
     </entity>
@@ -1209,7 +1209,7 @@
         <bitfield Key="Subtype">
             <dropdown Length="1">
                 <choice>Normal</choice>
-                <choice>Black</choice>
+                <choice>Black 👑</choice>
             </dropdown>
         </bitfield>
     </entity>
@@ -1217,7 +1217,7 @@
         <bitfield Key="Subtype">
             <dropdown Length="1">
                 <choice>Normal</choice>
-                <choice>Black</choice>
+                <choice>Black 👑</choice>
             </dropdown>
         </bitfield>
     </entity>
@@ -1230,7 +1230,7 @@
         <bitfield Key="Subtype">
             <dropdown Length="1">
                 <choice>Normal</choice>
-                <choice>Black</choice>
+                <choice>Black 👑</choice>
             </dropdown>
         </bitfield>
     </entity>
@@ -1238,7 +1238,7 @@
         <bitfield Key="Subtype">
             <dropdown Length="1">
                 <choice>Normal</choice>
-                <choice>Black</choice>
+                <choice>Black 👑</choice>
             </dropdown>
         </bitfield>
     </entity>
@@ -1246,7 +1246,7 @@
         <bitfield Key="Subtype">
             <dropdown Length="1">
                 <choice>Normal</choice>
-                <choice>Black</choice>
+                <choice>Black 👑</choice>
             </dropdown>
         </bitfield>
     </entity>
@@ -1316,8 +1316,8 @@
         <bitfield Key="Subtype">
             <dropdown Length="2">
                 <choice>Normal</choice>
-                <choice>Blue</choice>
-                <choice>Red</choice>
+                <choice>Blue 👑</choice>
+                <choice>Red 👑</choice>
             </dropdown>
         </bitfield>
     </entity>
